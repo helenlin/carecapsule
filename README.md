@@ -1,6 +1,12 @@
-# Thank You Gachapon
-Hello, welcome to Thank You Gachapon.
+# care capsule
+hello there,
 
-This is a little dispenser of hand-drawn e-cards to fundraise for Meals on Wheels.
 
-Project by Helen Lin and Alice Wang
+this is care capsule.
+
+this is a little dispenser of hand-drawn e-cards to fundraise for meals on wheels.
+
+
+project by,
+
+helen lin and alice wang
